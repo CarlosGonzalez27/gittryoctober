@@ -1,0 +1,2 @@
+# gittryoctober
+practive for git
